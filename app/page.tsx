@@ -220,7 +220,7 @@ export default function Hero() {
 
   <div className="relative w-full h-[350px] sm:h-[450px] md:h-[750px] rounded-3xl overflow-hidden">
     <Image
-      src="/profile1.png"
+      src="/profile2.png"
       alt="Shridhar"
       fill
       className="object-cover object-[center_25%]"
