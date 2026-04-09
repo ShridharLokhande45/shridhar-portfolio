@@ -319,10 +319,10 @@ export default function Hero() {
     viewport={{ once: true }}
     className="mt-4 text-gray-400 text-sm md:text-base leading-relaxed text-center max-w-4xl mx-auto"
   >
-    Whether that's extending capabilities with Chrome plugins, automating workflows with
-    no-code/AI tools, or architecting scalable systems. With an insatiable curiosity, I embrace
-    unconventional approaches, believing that the right perspective can elevate code into
-    meaningful experiences that truly resonate.
+    I am a passionate Full Stack Developer with a strong foundation in modern web technologies. 
+    I specialize in building responsive, scalable, and user-centric applications. 
+    With hands-on experience in real-world projects, I enjoy turning ideas into efficient digital 
+    solutions through clean code and thoughtful design.
   </motion.p>
 
   {/* BUTTON */}
