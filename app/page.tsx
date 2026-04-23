@@ -21,6 +21,7 @@ import { LuMousePointer2 } from "react-icons/lu";
 import { VscCode } from "react-icons/vsc";
 import { FaGithub } from "react-icons/fa";
 import { Code2 } from "lucide-react";
+import { Brain } from "lucide-react";
 
 import {
   FaHtml5,
@@ -529,6 +530,7 @@ export default function Hero() {
             <SkillTag icon={<FaGithub size={20} className="text-white" />} label="GitHub" />
             <SkillTag icon={<SiN8N size={20} className="text-red-400" />} label="n8n" />
             <SkillTag icon={<SiOpenai size={20} className="text-gray-300" />} label="ChatGPT" />
+            <SkillTag icon={<Brain size={20} className="text-purple-400" />} label="Claude AI" />
           </div>
         </div>
 
